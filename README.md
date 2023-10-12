@@ -26,7 +26,7 @@ You should use
 192.168.0.0
 ```
 
-Will automatically be created when you create a VPC
+Will automatically be created when you create a VPC and also a security group
 ![VPC](VPC_created.png)
 
 
