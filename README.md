@@ -26,7 +26,7 @@ You should use
 192.168.0.0
 ```
 
-
+![VPC](VPC.png)
 
 
 ## Route 53
