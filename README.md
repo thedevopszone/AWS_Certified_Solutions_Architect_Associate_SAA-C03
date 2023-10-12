@@ -13,6 +13,22 @@
 
 ## Virtual Private Cloud (VPC) Networking
 
+```
+# In AWS some Ips are reserved
+10.0.0.0/28  = 16
+10.0.0.0/24  = 256
+10.0.0.0/16  = 65536 # The largest in AWS
+```
+You should use
+```
+10.0.0.0 
+172.16.0.0  
+192.168.0.0
+```
+
+
+
+
 ## Route 53
 
 ## Elastic Load Balancing (ELB)
