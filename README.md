@@ -29,6 +29,9 @@ You should use
 Will automatically be created when you create a VPC
 ![VPC](VPC_created.png)
 
+
+Internet Gateway to connect to the Internet
+Virtual Private Gate to connect to our own Datacenter over VPN
 ![VPC](VPC.png)
 
 
